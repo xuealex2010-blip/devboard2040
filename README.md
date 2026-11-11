@@ -9,6 +9,8 @@ The devboard has 2 LEDs on it, a red one to signal the power connection, and a g
 
 It uses a USB-C connector instead off the Micro USB connector on the official one. And it has the necessary CC1 and CC2 resistors so it can be connected to a USB C port.
 
+The external pins are also labeled, so that you don't always need to reference a pinout when working on projects.
+
 Details with the source files can be previewed with KiCanvas: 
 
 [https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fxuealex2010-blip%2Fdevboard2040%2Ftree%2Fmain%2FPCB](url)
